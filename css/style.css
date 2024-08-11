@@ -342,7 +342,7 @@ img{
 
 .link-team:hover,
 .link-team:focus{
-    background-color: #31d0aa;
+    background-color: #404bbf
 }
 
 .link-team{
@@ -357,9 +357,7 @@ img{
 }
 
 .icon-team{
-    fill: #fff;
-    weight: 16px;
-    height: 16px;
+    fill: #f4f4fd;
 }
 
 
