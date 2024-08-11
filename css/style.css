@@ -353,6 +353,8 @@ img{
 
 .icon-team{
     fill: #fff;
+    weight: 16px;
+    height: 16px;
 }
 
 
@@ -502,6 +504,8 @@ img{
 
 .icon-footer{
     fill: #fff;
+    width: 16px;
+    height: 16px;
 }
 
 .link-footer:hover,
